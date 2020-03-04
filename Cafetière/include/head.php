@@ -12,5 +12,5 @@
     <script type="text/javascript" src="js/ajax.js"></script>
     <script type="text/javascript" src="js/texte-utils.js"></script>
     <script type="text/javascript" src="js/cafe.js"></script>
-    <title>Cafetière shit</title>
+    <title>Cafetière</title>
 </head>
