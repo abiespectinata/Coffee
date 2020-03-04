@@ -1,0 +1,47 @@
+header
+{
+    font-family: 'Oswald', sans-serif;
+    background: url('../images/Sans titre.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 50px;
+    color: white;
+    margin-bottom: 50px;
+    text-shadow: 10px 10px 10px black;
+}
+
+h2, p, span, a
+{
+
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    padding-bottom: 30px
+}
+
+#Hola, button
+{
+    font-family: 'Caveat', cursive;
+    font-size: 50px;
+    padding-bottom: 40px;
+}
+
+h4
+{
+    font-family: 'Oswald', sans-serif;
+    background: url('../images/leaves.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 50px;
+    color: white;
+    margin-bottom: 20px;
+    text-shadow: 10px 10px 10px black;
+}
+
+h5
+{
+    font-family: 'Oswald', sans-serif;
+}
